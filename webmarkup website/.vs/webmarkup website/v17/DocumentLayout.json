@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adam8\\Downloads\\bachelor informatica\\web markup\\webmarkup-repository\\webmarkup website\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D78311-8D33-4686-99AF-A6FA71ADCC45}|Solution Items{A4D78311-8D33-4686-99AF-A6FA71ADCC45}|C:\\Users\\adam8\\Downloads\\bachelor informatica\\web markup\\webmarkup-repository\\webmarkup website\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4D78311-8D33-4686-99AF-A6FA71ADCC45}|Solution Items{A4D78311-8D33-4686-99AF-A6FA71ADCC45}|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\adam8\\Downloads\\bachelor informatica\\web markup\\webmarkup-repository\\webmarkup website\\index.html",
+              "RelativeDocumentMoniker": "index.html",
+              "ToolTip": "C:\\Users\\adam8\\Downloads\\bachelor informatica\\web markup\\webmarkup-repository\\webmarkup website\\index.html",
+              "RelativeToolTip": "index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-26T23:54:17.637Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
